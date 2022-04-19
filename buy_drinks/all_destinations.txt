@@ -1,0 +1,8 @@
+ID	destination		x	y
+0	warehouse_north		11
+1	warehouse_east		11
+2	warehouse_south		11
+3	warehouse_west		11
+4	warehouse_central	11
+
+

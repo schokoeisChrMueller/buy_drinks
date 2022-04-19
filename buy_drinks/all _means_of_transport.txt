@@ -1,0 +1,5 @@
+ID	mean_of_transport	capacity	delivery_costs_per_km		duration_per_km	
+0	van			500		10,5				2,0
+1	car			150		6,5				2,0
+2	scooter			25		3,5				1,5
+3	bicycle			10		2,5				4,0	

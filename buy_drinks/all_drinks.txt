@@ -1,0 +1,22 @@
+ID	group		category	product			prize	liter	nord	east	south	west	central
+0	non_alcoholic	water		still_water		0.22	1.50	1	1	1	1	1
+1	non_alcoholic	water		sparkling_water		0.28	1.50	1	1	1	1	1
+2	non_alcoholic	water		mineral_water		0.88	1.50	1	1	1	1	1
+3	non_alcoholic	juice		apple_juice		0.60	1.00	1	1	1	1	1
+4	non_alcoholic	juice		orange_juice		0.45	1.00	1	1	1	1	1	
+5	non_alcoholic	juice		grape_juice		0.75	1.00	1	1	1	1	1
+6	non_alcoholic	soft_drinks	cola			1.20	1.25	1	1	1	1	1
+7	non_alcoholic	soft_drinks	sprite			1.25	1.25	1	1	1	1	1
+8	non_alcoholic	soft_drinks	icetea			0.90	2.00	1	1	1	1	1
+9	alcoholic	beer		light_beer		0.95	0.50	1	1	1	1	1
+10	alcoholic	beer		dark_beer		1.15	0.50	1	1	1	1	1
+11	alcoholic	beer		wheat_beer		1.05	0.50	1	1	1	1	1
+12	alcoholic	wine		red_wine		6.50	0.75	1	1	1	1	1
+13	alcoholic	wine		white_wine		5.00	0.75	1	1	1	1	1
+14	alcoholic	wine		rose_wine		5.50	0.75	1	1	1	1	1
+15	alcoholic	high-proof	vodka			12.50	0.70	1	1	1	1	1
+16	alcoholic	high-proof	rum			14.00	1.00	1	1	1	1	1
+17	alcoholic	high-proof	whiskey			16.50	0.70	1	1	1	1	1
+
+
+
